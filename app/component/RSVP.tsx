@@ -2,7 +2,7 @@
 
 import { submitRSVP } from "@/app/actions/rsvp";
 
-export default function RSVPSection(): JSX.Element {
+export default function RSVPSection()  {
   return (
     <section className="bg-white py-0 px-4 sm:px-6 lg:px-12">
       

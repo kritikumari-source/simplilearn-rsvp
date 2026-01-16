@@ -1,6 +1,6 @@
 
 
-export default function InsightsWithAgenda(): JSX.Element {
+export default function InsightsWithAgenda()  {
   return (
     <>
       
@@ -123,7 +123,7 @@ function AgendaCard({
   title,
   speaker,
   description,
-}: AgendaCardProps): JSX.Element {
+}: AgendaCardProps)  {
   return (
     <div className="bg-white rounded-lg p-6 shadow-sm opacity-80">
       <h3 className="text-blue-500 font-semibold mb-2 text-sm font-Satoshi Variable">

@@ -2,7 +2,7 @@
 
 import { submitRSVP } from "@/app/actions/rsvp";
 
-export default function FinalCTA(): JSX.Element {
+export default function FinalCTA()  {
   return (
     <section className="relative w-full overflow-hidden">
       <img

@@ -29,7 +29,7 @@ const speakers: Speaker[] = [
   },
 ];
 
-export default function FeaturedSpeakers(): JSX.Element {
+export default function FeaturedSpeakers(){
   return (
     <section className="bg-gradient-to-b from-blue-600 to-blue-800 px-6 py-20">
       <div className="max-w-6xl mx-auto">

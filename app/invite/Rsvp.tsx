@@ -1,6 +1,6 @@
 
 
-export default function InviteIntro(): JSX.Element {
+export default function InviteIntro()  {
   return (
     <section className="bg-white px-6 py-16">
       <div className="max-w-4xl mx-auto">

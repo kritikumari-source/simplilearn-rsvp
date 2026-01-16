@@ -2,7 +2,7 @@
 
 import { submitRSVP } from "@/app/actions/rsvp";
 
-export default function InsightsAndAgenda(): JSX.Element {
+export default function InsightsAndAgenda()  {
   return (
     <>
       {/* ================= INSIGHTS SECTION ================= */}

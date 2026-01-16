@@ -9,7 +9,7 @@ type CardProps = {
   highlight?: boolean;
 };
 
-export default function WhatWeExplore (): JSX.Element {
+export default function WhatWeExplore ()  {
   return (
     <section className="bg-[#EEF4FF] py-24 px-4 sm:px-6 lg:px-20">
       <div className="max-w-7xl mx-auto">
@@ -71,7 +71,7 @@ function Card({
   title,
   description,
   highlight = false,
-}: CardProps): JSX.Element {
+}: CardProps)  {
   return (
     <div
       className={`bg-white rounded-xl p-6 shadow-md

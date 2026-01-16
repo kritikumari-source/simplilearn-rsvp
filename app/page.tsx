@@ -5,7 +5,7 @@ import FeaturedSpeakers from "./component/FeaturedSpeakers";
 import InsightsAndAgenda from "./component/InsightsAndAgenda";
 import FinalCTA from "./component/FinalCTA";
 
-export default function HomePage(): JSX.Element {
+export default function HomePage()  {
   return (
     <main className="min-h-screen bg-gray-900">
       <EventHero />
