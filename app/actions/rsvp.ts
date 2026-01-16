@@ -33,5 +33,5 @@ export async function submitRSVP(formData: FormData) {
     throw new Error("Failed to submit RSVP");
   }
 
-  return { success: true };
+  // return { success: true };
 }
